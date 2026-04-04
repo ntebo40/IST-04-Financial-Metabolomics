@@ -1,0 +1,5 @@
+security_id,ticker_anon,gics_sector,gics_code,included_from,included_to,notes
+1,SEC001,Energy,1010,2015-01-05,2025-12-31,Continuously listed
+2,SEC002,Materials,1510,2015-01-05,2025-12-31,Continuously listed
+...
+87,SEC087,Utilities,5510,2015-01-05,2025-12-31,Continuously listed

@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite as below."
+type: software
+title: "IST-04: Financial Metabolomics Series"
+authors:
+  - family-names: Moroke
+    given-names: Ntebogang Dinah
+    orcid: "https://orcid.org/0000-0001-8545-1860"
+    affiliation: "North-West University, Faculty of Economic and Management Sciences, Mafikeng, South Africa"
+    email: Ntebo.Moroke@nwu.ac.za
+repository-code: "https://github.com/ntebo40/IST-04-Financial-Metabolomics"
+doi: "10.5281/zenodo.19072906"
+date-released: "2026-03-30"
+version: "1.0.0"
+license: "MIT"
+keywords:
+  - financial econometrics
+  - systemic risk
+  - transformer
+  - Gaussian attention
+  - metabolic saliency
+  - transfer entropy
+  - Johannesburg Stock Exchange
+  - Eskom
+  - emerging markets
+  - intrinsic interpretability
+  - contractivity
+abstract: >
+  Repository for the Financial Metabolomics Series (IST-04), a three-paper
+  programme applying non-equilibrium thermodynamics, information geometry,
+  and hierarchical transformer architectures to systemic stress detection
+  in JSE equity markets. Paper 1 introduces the Gaussian-Weighted Swin
+  Network (GWS-STNet) with Metabolic Saliency attribution.
+preferred-citation:
+  type: article
+  title: >
+    Gaussian-Weighted Swin Networks with Contractive Attention and
+    Metabolic Saliency: An Intrinsically Interpretable Architecture for
+    Systemic Stress Detection in JSE Equity Markets
+  authors:
+    - family-names: Moroke
+      given-names: Ntebogang Dinah
+      orcid: "https://orcid.org/0000-0001-8545-1860"
+  journal: "Mathematics"
+  publisher: "MDPI"
+  year: 2026
+  notes: "Submitted. Financial Metabolomics Series, Paper 1."
